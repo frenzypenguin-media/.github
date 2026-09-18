@@ -44,3 +44,5 @@ via the **Security tab** · questions in each repo's **Discussions**.
   <a href="https://www.patreon.com/frenzypenguin_media"><img src="https://img.shields.io/badge/Patreon-frenzypenguin__media-F96854?logo=patreon&style=for-the-badge" alt="Patreon"></a>&nbsp;&nbsp;
   <a href="https://linktr.ee/frenzypenguin.media"><img src="https://img.shields.io/badge/Links-frenzypenguin.media-2BE295?logo=linktree&logoColor=white&style=for-the-badge" alt="Linktree"></a>
 </p>
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=github.com/frenzypenguin-media/.github&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=github.com/frenzypenguin-media/.github)
