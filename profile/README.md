@@ -147,10 +147,10 @@ are and can always hop sideways.
 | [`frenzypenguin-media.github.io`](https://github.com/frenzypenguin-media/frenzypenguin-media.github.io) | The live site — artists, video, streams, captation, the host index |
 | [`github-social`](https://github.com/frenzypenguin-media/github-social) | A decentralized social layer for GitHub: browser extension, PWA, embed widget, desktop app |
 | [`tristar-mania`](https://github.com/frenzypenguin-media/tristar-mania) | A fast-paced arcade space shooter in Python and pygame |
-| [`BIBI`](https://github.com/frenzypenguin-media/BIBI) | An animated children's series in development — bible, episodes, storyboards, asset prompts |
-| [`monetization`](https://github.com/frenzypenguin-media/monetization) | Patreon, affiliate and product revenue — how the lights stay on |
-| [`doctor`](https://github.com/frenzypenguin-media/doctor) | CI doctor — diagnoses and repairs GitHub Actions failures across the network |
-| [`marketing`](https://github.com/frenzypenguin-media/marketing) | Promotion strategy, per-platform compliance rules, ready-to-post copy |
+
+<sub>Production, finance and the CI tooling stay private — they run the studio, but
+they are not part of what we offer you. If you want to see the engineering behind the
+music, [neohiro](https://github.com/neohiro) is where the open-source work is published.</sub>
 
 ---
 
@@ -160,7 +160,7 @@ There are four ways in, and all four are open.
 
 - 🎤 **Play the stage.** Come to [Open Stage Island](https://openstageisland.github.io), or ask for a slot — the stage is free and always open.
 - 🎥 **Join the stream.** Subscribe on [YouTube](https://www.youtube.com/FrenzyPenguinMedia?sub_confirmation=1) or [Bluesky](https://bsky.app/profile/frenzypenguin.media), and say hello in chat.
-- 🎬 **Send a video.** Got a set, a visual piece, a livestream you want captioned or cut? [Open an issue](https://github.com/frenzypenguin-media/frenzypenguin-media.github.io/issues) and tell us what you are making.
+- 🎬 **Send a video.** Got a set, a visual piece, a livestream you want captioned or cut? [Open an issue on the site repo](https://github.com/frenzypenguin-media/frenzypenguin-media.github.io/issues) and tell us what you are making.
 - 🧩 **Build with us.** The tooling is open source. Pick an open issue on any repo above, or read [CONTRIBUTING](https://github.com/frenzypenguin-media/.github/blob/main/CONTRIBUTING.md) and start there.
 
 **For everyone else here:** newcomers, LGBTQI+ residents and furries are all welcome —
