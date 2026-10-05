@@ -43,7 +43,7 @@ identities that make an act recognisable before the first track drops.
 | 🎬 **Artist videos** | DJ sets and live performance films — full mixes, single-track breakdowns, set Openings and closings | [frenzypenguin.media](https://frenzypenguin.media) · [YouTube](https://www.youtube.com/FrenzyPenguinMedia?sub_confirmation=1) |
 | 📡 **Livestreams** | Scheduled and spontaneous live sets, broadcast and archived | [YouTube](https://www.youtube.com/FrenzyPenguinMedia?sub_confirmation=1) · [Twitch](https://frenzypenguin.media/twitch/) |
 | 💬 **Captation** | Every stream and long-form video carries captions and a written transcript — timed, reviewed, and shipped with the cut | [frenzypenguin.media](https://frenzypenguin.media/youtube/) |
-| 🎨 **Art videos** | Abstract and generative visuals, motion-graphics pieces, title sequences and channel packages | [frenzypenguin.media](https://frenzypenguin.media/media.md) |
+| 🎨 **Art videos** | Abstract and generative visuals, motion-graphics pieces, title sequences and channel packages | [frenzypenguin.media](https://frenzypenguin.media/media/) |
 | 🖼️ **Visual identity** | Stage visuals, waveform stills, avatar and cover art, animated loops for socials | [frenzypenguin.media](https://frenzypenguin.media/artists/) |
 | 🛠️ **The workshop** | The open-source tooling behind the work — stream utilities, snap tooling, and a CI doctor that repairs broken pipelines | [github.com/frenzypenguin-media](https://github.com/frenzypenguin-media?tab=repositories) |
 
