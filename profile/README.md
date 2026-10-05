@@ -7,7 +7,7 @@
 
 # 🎛️ FrenzyPenguin Media
 
-### **Electronic music on camera. Every stream, captioned.**
+### **Music on camera — artist video, promos, livestreams. Every stream, captioned.**
 
 [![Live site](https://img.shields.io/badge/live%20site-frenzypenguin.media-00E5FF?style=for-the-badge&logo=githubpages)](https://frenzypenguin.media)
 [![Video](https://img.shields.io/badge/YouTube-%40FrenzyPenguinMedia-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/FrenzyPenguinMedia?sub_confirmation=1)
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-> ### A creative studio for electronic music and the moving image — DJ sets, livestreams, captioned video, and the audiovisual craft that goes with them.
+> ### A creative studio for electronic music and the moving image — artist video, promotional content, livestreams, captioned video, and the audiovisual craft that goes with them.
 >
 > **Every set is captioned.** A stream you can watch on a train is worth more than a stream you cannot.
 
@@ -32,6 +32,11 @@ artist collective and production house: we record and stream DJ sets and live
 performances, cut captioned video for them, and build the art videos and visual
 identities that make an act recognisable before the first track drops.
 
+We also take on **commissioned work** — if you are an artist, label, festival, brand
+or event and you need video that looks like it cost more than it did, that is a
+service we offer. Tell us what you are promoting and we will tell you honestly
+whether we are the right studio for it.
+
 </div>
 
 ---
@@ -41,11 +46,34 @@ identities that make an act recognisable before the first track drops.
 | | What it is | Where it lives |
 | --- | --- | --- |
 | 🎬 **Artist videos** | DJ sets and live performance films — full mixes, single-track breakdowns, set Openings and closings | [frenzypenguin.media](https://frenzypenguin.media) · [YouTube](https://www.youtube.com/FrenzyPenguinMedia?sub_confirmation=1) |
+| 📣 **Promotional video** | Release announcements, track and EP visuals, tour and festival promos, artist-spotlight edits, announcement loops for socials | [frenzypenguin.media](https://frenzypenguin.media/media/) · [Linktree](https://linktr.ee/frenzypenguin.media) |
+| 🖥️ **Event & brand video** | Aftermovie-style recaps, stage visuals and screens, venue and sponsor spots, commissioned pieces for artists, labels, festivals and brands | [Get in touch](#work-with-us) |
 | 📡 **Livestreams** | Scheduled and spontaneous live sets, broadcast and archived | [YouTube](https://www.youtube.com/FrenzyPenguinMedia?sub_confirmation=1) · [Twitch](https://frenzypenguin.media/twitch/) |
 | 💬 **Captation** | Every stream and long-form video carries captions and a written transcript — timed, reviewed, and shipped with the cut | [frenzypenguin.media](https://frenzypenguin.media/youtube/) |
 | 🎨 **Art videos** | Abstract and generative visuals, motion-graphics pieces, title sequences and channel packages | [frenzypenguin.media](https://frenzypenguin.media/media/) |
 | 🖼️ **Visual identity** | Stage visuals, waveform stills, avatar and cover art, animated loops for socials | [frenzypenguin.media](https://frenzypenguin.media/artists/) |
 | 🛠️ **The workshop** | The open-source tooling behind the work — stream utilities, snap tooling, and a CI doctor that repairs broken pipelines | [github.com/frenzypenguin-media](https://github.com/frenzypenguin-media?tab=repositories) |
+
+---
+
+## Work with us
+
+We work with artists, labels, festivals, venues, events and brands — from a single
+promo cut to a full season of filmed sets. This is the fastest way to reach us:
+
+<div align="center">
+
+| 💼 I want to… | Where to go |
+| --- | --- |
+| 🎤 **Get a promo cut made for my release** | [linktr.ee/frenzypenguin.media](https://linktr.ee/frenzypenguin.media) — booking and contact links in one place |
+| 🎥 **Book the studio for a set or an event** | Ask on [Discord](https://discord.gg/Z38YQ6Xmbp), or reach us via the [contact page](https://frenzypenguin.media/contact/) |
+| 🧑‍💻 **Discuss a larger commission** | Say what you are promoting, your deadline and your budget — we reply with what we can do and what it costs |
+| 🏝️ **Perform on the island instead** | Come to [Open Stage Island](https://openstageisland.github.io) — the stage is free, and you keep 100% of your tips |
+
+</div>
+
+<sub>We are a small studio, so we take on a limited number of commissions at a time and
+we will tell you plainly if we are not the right fit rather than waste your time.</sub>
 
 ---
 
@@ -66,6 +94,8 @@ deliberately half-empty — the roster grows as artists fill them in.
 | 📻 **[Radio](https://frenzypenguin.media/radio/)** | Continuous rotation | — |
 | 🪩 **[Rave Beacon](https://frenzypenguin.media/ravebeacon/)** | Event and set announcements | — |
 | 🌊 **[WWS DOOA](https://frenzypenguin.media/wwsdooa/)** | Deep cuts and long-form mixes | — |
+
+</div>
 
 <sub>The full index — <b>34</b> hosts and channels, every one re-probed for a live
 answer — is at [frenzypenguin.media/hosts](https://frenzypenguin.media/hosts/).</sub>
@@ -156,8 +186,9 @@ music, [neohiro](https://github.com/neohiro) is where the open-source work is pu
 
 ## 🤝 Take part
 
-There are four ways in, and all four are open.
+Four ways in, all open.
 
+- 💼 **Commission a video.** Artist, label, festival or brand? See [Work with us](#work-with-us).
 - 🎤 **Play the stage.** Come to [Open Stage Island](https://openstageisland.github.io), or ask for a slot — the stage is free and always open.
 - 🎥 **Join the stream.** Subscribe on [YouTube](https://www.youtube.com/FrenzyPenguinMedia?sub_confirmation=1) or [Bluesky](https://bsky.app/profile/frenzypenguin.media), and say hello in chat.
 - 🎬 **Send a video.** Got a set, a visual piece, a livestream you want captioned or cut? [Open an issue on the site repo](https://github.com/frenzypenguin-media/frenzypenguin-media.github.io/issues) and tell us what you are making.
