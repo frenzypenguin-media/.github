@@ -1,48 +1,44 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%91%BD-METAPOD-7C4DFF?style=for-the-badge" alt="METAPOD">
-  &nbsp;<img src="https://img.shields.io/badge/FrenzyPenguin-Media-00E5FF?style=for-the-badge" alt="FrenzyPenguin Media">
-</p>
+# .github
 
-<h1 align="center">FrenzyPenguin Media</h1>
+The organisation-level home for **[FrenzyPenguin Media](https://github.com/frenzypenguin-media)**.
 
-<p align="center"><b><i>"Defense is the best defense."</i></b> 🛡️</p>
+## Where the actual profile lives
 
----
+The org landing page at [github.com/frenzypenguin-media](https://github.com/frenzypenguin-media)
+is rendered from **`profile/README.md`** in this repository. That file is the
+single source of truth for the org's scope, work and how to take part.
 
-### 🛡️ What we build
+If you are here to read what this org does, read
+**[`profile/README.md`](profile/README.md)**.
 
-Open-source **security hardening** and **privacy tooling** for Windows & Linux —
-from exploit-mitigation catalogs to encrypted-DNS front-ends, network firewalls
-and honeypots.
+## What else is in here
 
-Our tools live across the **[neohiro](https://github.com/neohiro?tab=repositories)**
-account. Highlights:
+| Path | What it does |
+| ---- | ------------ |
+| [`profile/README.md`](profile/README.md) | The org landing page. Keep this the only place the org's description lives. |
+| [`.github/ISSUE_TEMPLATE/`](.github/ISSUE_TEMPLATE) | Structured bug and feature request forms |
+| [`.github/PULL_REQUEST_TEMPLATE.md`](.github/PULL_REQUEST_TEMPLATE.md) | Checklist for pull requests |
+| [`CONTRIBUTING.md`](CONTRIBUTING.md) | How to contribute across the network |
+| [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | Conduct expectations — read this before opening an issue or a PR |
+| [`SECURITY.md`](SECURITY.md) | Private vulnerability reporting. Never file a security bug as a public issue. |
+| [`FUNDING.yml`](FUNDING.yml) | Where the money goes |
 
-| Project | Description |
-| --- | --- |
-| [![ExploitProtection](https://img.shields.io/badge/⭐-ExploitProtection-66BB6A?style=flat-square)](https://github.com/neohiro/ExploitProtection) | Windows Exploit Protection settings (Ultimate) GUI |
-| [![dnscrypt-proxy-gui](https://img.shields.io/badge/⭐-dnscrypt__proxy__gui-42A5F5?style=flat-square)](https://github.com/neohiro/dnscrypt-proxy-gui) | Cross-platform GUI for dnscrypt-proxy |
-| [![Cripple-NetStrip](https://img.shields.io/badge/⭐-Cripple__NetStrip-EF5350?style=flat-square)](https://github.com/neohiro/Cripple-NetStrip) | Network hardening · DNS sinkhole · firewall |
-| [![BlackGlass](https://img.shields.io/badge/⭐-BlackGlass-AB47BC?style=flat-square)](https://github.com/neohiro/BlackGlass) | Multi-client Second Life chat viewer |
-| [![HoneyScan](https://img.shields.io/badge/⭐-HoneyScan-FFA726?style=flat-square)](https://github.com/neohiro/HoneyScan) | Passive honeypot for home networks |
-| [![SystemMonitor](https://img.shields.io/badge/⭐-SystemMonitor-26C6DA?style=flat-square)](https://github.com/neohiro/SystemMonitor) | Desktop-widget system health monitor |
+## Two rules
 
-### 📚 Guides
+1. **Do not duplicate the profile text here.** A second copy drifts within weeks
+   and then two landing pages disagree about what the org is. Edit
+   `profile/README.md` instead.
+2. **Keep the scope honest.** This org is a music and video studio — artist
+   video, promotional content, livestreams, captation and art visuals. The
+   open-source hardening and privacy tooling is published on the
+   [neohiro](https://github.com/neohiro) developer account, which is a separate
+   account with its own scope.
 
-- 🪟 **[windows](https://github.com/neohiro/windows)** — STIG-style Windows 10/11 install hardening
-- 🐧 **[ubuntu](https://github.com/neohiro/ubuntu)** — Linux post-install hardening (firewall, encrypted DNS, Tor)
+## The network
 
-### 🤝 Community
-
-Bugs go through structured **issue forms** on each repository · vulnerabilities
-via the **Security tab** · questions in each repo's **Discussions**.
-
----
-
-<p align="center">
-  <a href="https://github.com/sponsors/neohiro"><img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-%E2%9D%A4-EA4AAA?logo=githubsponsors&style=for-the-badge" alt="GitHub Sponsors"></a>&nbsp;&nbsp;
-  <a href="https://www.patreon.com/frenzypenguin_media"><img src="https://img.shields.io/badge/Patreon-frenzypenguin__media-F96854?logo=patreon&style=for-the-badge" alt="Patreon"></a>&nbsp;&nbsp;
-  <a href="https://linktr.ee/frenzypenguin.media"><img src="https://img.shields.io/badge/Links-frenzypenguin.media-2BE295?logo=linktree&logoColor=white&style=for-the-badge" alt="Linktree"></a>
-</p>
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=github.com/frenzypenguin-media/.github&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=github.com/frenzypenguin-media/.github)
+| Site | What it is |
+| ---- | ---------- |
+| **[frenzypenguin.media](https://frenzypenguin.media)** | 🎛️ The studio — artists, video, streams, captation |
+| **[openstageisland.github.io](https://openstageisland.github.io)** | 🏝️ The venue — a free 24/7 open-air music stage in Second Life |
+| **[transhumanists.github.io](https://transhumanists.github.io)** | 🧬 The research desk — breakthroughs, scored and mapped |
+| **[github.com/neohiro](https://github.com/neohiro)** | 👽 The developer account — open-source hardening tooling |
