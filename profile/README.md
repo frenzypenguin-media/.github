@@ -28,8 +28,8 @@
 <div align="center">
 
 **FrenzyPenguin Media is where the music gets filmed.** We are an electronic-music
-artist collective and production house: we record and stream DJ sets and live
-performances, cut captioned video for them, and build the art videos and visual
+artist's audiovidual production house: we record and stream DJ sets and live
+performances, cut and build the art videos and visual
 identities that make an act recognisable before the first track drops.
 
 We also take on **commissioned work** — if you are an artist, label, festival, brand
@@ -77,26 +77,6 @@ we will tell you plainly if we are not the right fit rather than waste your time
 
 ---
 
-## 🎚️ The roster
-
-Every act here has a page with its own bio, genre and tempo range. The frames are
-deliberately half-empty — the roster grows as artists fill them in.
-
-<div align="center">
-
-| Act | Sound | Tempo |
-| --- | ----- | ----- |
-| 🎵 **[Kenneth Game](https://frenzypenguin.media/artists/kennethgame/)** | Deep house, hypnotic | 124–128 BPM |
-| 🎓 **[Professor Benji](https://frenzypenguin.media/artists/professorbenji/)** | Deep house, Balearic, leftfield | 120–126 BPM |
-| 🏠 **[House Music](https://frenzypenguin.media/housemusic/)** | The long-form house channel | — |
-| 🎤 **[Live Music](https://frenzypenguin.media/livemusic/)** | Live sets and unplugged takes | — |
-| 🎙️ **[Podcast](https://frenzypenguin.media/podcast/)** | Talk, interviews, studio sessions | — |
-| 📻 **[Radio](https://frenzypenguin.media/radio/)** | Continuous rotation | — |
-| 🪩 **[Rave Beacon](https://frenzypenguin.media/ravebeacon/)** | Event and set announcements | — |
-| 🌊 **[WWS DOOA](https://frenzypenguin.media/wwsdooa/)** | Deep cuts and long-form mixes | — |
-
-</div>
-
 <sub>The full index — <b>34</b> hosts and channels, every one re-probed for a live
 answer — is at [frenzypenguin.media/hosts](https://frenzypenguin.media/hosts/).</sub>
 
@@ -104,9 +84,9 @@ answer — is at [frenzypenguin.media/hosts](https://frenzypenguin.media/hosts/)
 
 ## 🎬 A night on the island
 
-The stage that makes this a working practice rather than a portfolio. Some nights it
-is a video room in Second Life: someone plays, someone films, someone captions, and
-the set is on the site by morning.
+The stage that makes everything a working practice rather than a static portfolio. Some nights it
+is a video room in Second Life: someone plays, someone films, someone dances, someone captions, and
+the set is shared to remember forever.
 
 <div align="center">
 
@@ -198,7 +178,7 @@ Four ways in, all open.
 on the island and in the repos. Read the [code of conduct](https://github.com/frenzypenguin-media/.github/blob/main/CODE_OF_CONDUCT.md) first; it is short and it is enforced.
 
 **Found a vulnerability?** Report it **privately** — never as a public issue. Use the
-**Security** tab of the repository, or email `security@neohiro.io`. See `SECURITY.md`.
+**Security** tab of the repository, or email. See `SECURITY.md`.
 
 ---
 
